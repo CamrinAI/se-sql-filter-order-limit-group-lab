@@ -31,6 +31,7 @@ All your code will be in `main.py`. You can add any print statements needed to c
 
 You will begin by looking at the planets data to perform some basic filtering queries.
 
+
 Table Name: planets
 
 ```python
